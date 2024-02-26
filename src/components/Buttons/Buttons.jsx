@@ -1,4 +1,4 @@
-const { ButtonListWrapper, Button } = require('./Buttons.styled');
+import { ButtonListWrapper, Button } from './Buttons.styled';
 
 const FeedbackButtons = ({ options, onFeedback }) => {
   return (
