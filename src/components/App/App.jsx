@@ -45,7 +45,7 @@ const App = () => {
           )}
         />
       ) : (
-        <Notification text="There is no feedback..." />
+        <Notification text="There is no feedback." />
       )}
     </Container>
   );
